@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://docs.google.com/document/d/e/2PACX-1vTmlsdysb-uhqY0jizKtVGyqisq9Tprdf7BlYZOE5puMyBJ4SFwXKzo66Ev4PEjOMiCEsLuTt7ec3pD/pub"
+    }
+  ]
+}
