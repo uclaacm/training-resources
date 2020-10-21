@@ -2,7 +2,7 @@
 Training Resources Master Doc for ACM Committees to use to consolidate resources for training new members in dev and design related roles.
 
 URL to Public Site:
-[training-resources.now.sh](training-resources.now.sh)
+[training-resources.now.sh](https://www.training-resources.now.sh)
 
 Doc:
 https://docs.google.com/document/d/1HV_c-oli0YK7lRlLN9ZtGlkQVfO84mt1XT7VQ8bBHLY/edit#heading=h.rld6v2h3kncs
