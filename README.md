@@ -1,4 +1,4 @@
-# Training Resources
+# ACM Training Resources
 Training Resources Master Doc for ACM Committees to use to consolidate resources for training new members in dev and design related roles.
 
 URL to Public Site:
@@ -18,3 +18,6 @@ Click "Replace URL with its title" to make the link human readable
 Try to limit the amount of links/resources for a given topic to a minimum to reduce information overload when people are trying to learn new skills. 
 
 Try to link ACM's public repos where relevant to allow new members to learn by reading our code and contributing
+
+We can meet to discuss whether these resources are the definitive ones for the technologies we are teaching on an ad hoc basis.
+Feel free to make this discussion asynchronous by using the Github Issues or Google Doc Comments system.
