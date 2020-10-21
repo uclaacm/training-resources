@@ -6,3 +6,6 @@ https://docs.google.com/document/d/1HV_c-oli0YK7lRlLN9ZtGlkQVfO84mt1XT7VQ8bBHLY/
 
 Public Site:
 https://docs.google.com/document/d/e/2PACX-1vTmlsdysb-uhqY0jizKtVGyqisq9Tprdf7BlYZOE5puMyBJ4SFwXKzo66Ev4PEjOMiCEsLuTt7ec3pD/pub
+
+When adding a link:
+Click "Replace URL with its title" to make the link human readable
